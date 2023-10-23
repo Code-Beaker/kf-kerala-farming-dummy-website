@@ -201,6 +201,7 @@ p {
 }
 
 .footer-item-link:hover {
+  text-decoration: underline;
   color: var(--cyan-400);
 }
 
